@@ -1,5 +1,1 @@
 ﻿# explorer-biscoito-da-sorte
-
-teste 1234
-
-<img>
